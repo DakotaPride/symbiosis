@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "X#",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "tag": "c:glass_blocks"
+    },
+    "#": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "symbiosis:empty_flask",
+    "count": 1
+  }
+}
