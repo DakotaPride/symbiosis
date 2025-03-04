@@ -124,7 +124,7 @@ public class FilledFlaskItem extends PotionItem {
 
     @Override
     public int getUseDuration(ItemStack stack, LivingEntity entity) {
-        return 32;
+        return 16;
     }
 
     @Override
