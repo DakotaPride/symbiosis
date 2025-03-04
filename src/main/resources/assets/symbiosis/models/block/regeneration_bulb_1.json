@@ -1,0 +1,6 @@
+{
+  "parent": "symbiosis:block/bulb_layer_1",
+  "textures": {
+    "flowerbed": "symbiosis:block/regeneration_bulb"
+  }
+}

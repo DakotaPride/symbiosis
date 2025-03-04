@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:cherry_grove",
+  "features": "symbiosis:regeneration_bulb_shrub",
+  "step": "vegetal_decoration"
+}

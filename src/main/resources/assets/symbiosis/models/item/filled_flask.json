@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer1": "symbiosis:item/empty_flask",
+    "layer0": "symbiosis:item/flask_overlay"
+  }
+}

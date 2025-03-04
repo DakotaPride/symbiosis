@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "symbiosis:slow_falling_bulb_shrub",
+              "functions": [],
+              "conditions": [
+                {
+                  "condition": "minecraft:any_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:match_tool",
+                      "predicate": {
+                        "items": "minecraft:shears"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "symbiosis:slow_falling_bulb",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ],
+              "conditions": []
+            }
+          ],
+          "functions": [],
+          "conditions": []
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "symbiosis:blocks/slow_falling_bulb_shrub"
+}

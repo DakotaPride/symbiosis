@@ -1,5 +1,46 @@
 {
-  "itemGroup.symbiosis.symbiosis": "Example Mod Tab",
-  "block.symbiosis.example_block": "Example Block",
-  "item.symbiosis.example_item": "Example Item"
+  "itemGroup.symbiosis.symbiosis": "Symbiosis",
+  "block.symbiosis.bulb_shrub": "Bulb Shrub",
+  "block.symbiosis.blaze_thorn_bush": "Blazethorn Bush",
+  "item.symbiosis.empty_flask": "Empty Flask",
+
+  "block.symbiosis.regeneration_bulb_shrub": "Regeneration Bulb Shrub",
+  "block.symbiosis.regeneration_bulb": "Regeneration Bulb",
+
+  "block.symbiosis.strength_bulb_shrub": "Strength Bulb Shrub",
+  "block.symbiosis.strength_bulb": "Strength Bulb",
+
+  "block.symbiosis.speed_bulb_shrub": "Speed Bulb Shrub",
+  "block.symbiosis.speed_bulb": "Speed Bulb",
+
+  "block.symbiosis.slow_falling_bulb_shrub": "Slow Falling Bulb Shrub",
+  "block.symbiosis.slow_falling_bulb": "Slow Falling Bulb",
+
+
+  "item.symbiosis.filled_flask.effect.awkward": "Awkward Filled Flask",
+  "item.symbiosis.filled_flask.effect.empty": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.fire_resistance": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.harming": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.healing": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.infested": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.invisibility": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.leaping": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.levitation": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.luck": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.mundane": "Mundane Filled Flask",
+  "item.symbiosis.filled_flask.effect.night_vision": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.oozing": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.poison": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.regeneration": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.slow_falling": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.slowness": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.strength": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.swiftness": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.thick": "Thick Filled Flask",
+  "item.symbiosis.filled_flask.effect.turtle_master": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.water": "Water Filled Flask",
+  "item.symbiosis.filled_flask.effect.water_breathing": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.weakness": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.weaving": "Filled Flask",
+  "item.symbiosis.filled_flask.effect.wind_charged": "Filled Flask"
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "symbiosis:block/bulb_layer_1",
+  "textures": {
+    "flowerbed": "symbiosis:block/slow_falling_bulb"
+  }
+}

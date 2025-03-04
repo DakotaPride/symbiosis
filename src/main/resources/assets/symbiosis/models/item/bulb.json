@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "symbiosis:block/bulb",
-    "layer1": "symbiosis:block/plant"
-  }
-}

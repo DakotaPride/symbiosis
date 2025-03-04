@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "symbiosis:block/blaze_thorn_bush"
+  }
+}

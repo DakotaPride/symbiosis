@@ -1,0 +1,6 @@
+{
+  "parent": "symbiosis:block/template",
+  "textures": {
+    "bulb": "symbiosis:block/bulb_shrub/speed"
+  }
+}
